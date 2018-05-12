@@ -1,0 +1,25 @@
+_repo: '---_27753'
+_version: 0.1.0
+alternative_title: Yi zhen qi
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Huayangsanren
+    alias: 華陽散人
+    gutenberg_agent_id: '32887'
+    url: http://www.gutenberg.org/2009/agents/32887
+description: ''
+gutenberg_issued: '2009-01-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27753'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PL'
+title: 一枕奇
+url: http://www.gutenberg.org/ebooks/27753
